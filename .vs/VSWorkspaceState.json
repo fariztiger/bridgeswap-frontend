@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\scripts",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Menu",
+    "\\src\\components\\ModalActions",
+    "\\src\\views",
+    "\\src\\__tests__",
+    "\\src\\__tests__\\utils"
+  ],
+  "SelectedNode": "\\scripts\\generateConfig\\index.ts",
+  "PreviewInSolutionExplorer": false
+}
